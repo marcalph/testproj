@@ -1,7 +1,4 @@
-# TextNets
-
-a simple repo for anything language model related
-
+# Test project
 
 ## best practices
 
