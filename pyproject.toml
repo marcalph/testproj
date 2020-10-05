@@ -6,8 +6,8 @@ authors = ["marcalph <marcalph@protonmail.com>"]
 license = "MIT"
 
 [tool.poetry.scripts]
-project = "project.console:main"
-project-src-layout = "src.project.console_src:main"
+# project = "project.console:main"
+project-src-layout = "src.project.console:main"
 
 [tool.poetry.dependencies]
 python = "^3.7"
